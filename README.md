@@ -24,4 +24,4 @@ Its main objective is to balance class spreading through the random repetition o
 
 ### Documentation
 
-Check the documentation for further understanding the project work : [Project Documentation]
+Check the documentation for further understanding the project work : [Project Documentation](https://github.com/sudo-riyad/SVM_Machine_Learning/blob/b6197bfd7cc2791def361cbc710557d1bf21e821/Task_6_Team_1_Saha_Mou_Islam_Riyad-Ul-_Hasan_Tanvir.pdf)
