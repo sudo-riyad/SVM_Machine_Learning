@@ -1,0 +1,6 @@
+pip install -U scikit-learn
+pip install pandas
+pip install matplotlib
+pip install imbalanced-learn
+pip install librosa
+pip install openpyxl
