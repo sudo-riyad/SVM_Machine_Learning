@@ -15,9 +15,10 @@ The experiment were conducted on 5 object which are from object 1 to 5.To classi
 In the testing by defining a row index, a single object can be classified or all the objects can also be detected by selecting the test file. 
 Before any kind of pre-processing Class-0 had total of 1150 and Class-1 had total of 315 data in below Table. 
 
-| State | Class 0  | Class 1 |
-| Original Data  | 1150 | 315 |
-| After Oversampling Method | 1150 | 575 |
+| State                     | Class 0       | Class 1   |
+| -------------             |:-------------:| -----:    |   
+| Original Data             | 1150          | 315       |
+| After Oversampling Method | 1150          | 575       |
 
 This is where imbalance data be can be a problem as it is difficult to convince  your method to predict with better accuracy. In order to improve the performance random oversampling technique is implemented using RandomOverSampler Class and training datasets are selected randomly with replacement.
 Its main objective is to balance class spreading through the random repetition of minority target instances. Oversampling is used for pre-processing the data in a way so that the number of minor class data become at least 50%.
